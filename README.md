@@ -7,14 +7,14 @@ The primary goal is to implement and learn MLOps practices using tools like **Mo
 ---
 
 ## **Table of Contents**
-1. [Project Overview](#project-overview)
-2. [Tech Stack](#tech-stack)
-3. [Workflow](#workflow)
-4. [Features](#features)
-5. [Setup Instructions](#setup-instructions)
-6. [Deployment Details](#deployment-details)
-7. [Future Enhancements](#future-enhancements)
-8. [Acknowledgments](#acknowledgments)
+1. [Project Overview](#1-project-overview)
+2. [Tech Stack](#2-tech-stack)
+3. [Workflow](#3-workflow)
+4. [Features](#4-features)
+5. [Setup Instructions](#5-setup-instructions)
+6. [Deployment Details](#6-deployment-details)
+7. [Future Enhancements](#7-future-enhancements)
+8. [Acknowledgments](#8-acknowledgments)
 
 ---
 
