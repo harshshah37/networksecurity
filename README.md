@@ -154,7 +154,7 @@ The pipeline includes:
 - Orchestration: Use Kubernetes for better scalability and orchestration.
 - Data Versioning: Implement DVC for tracking data changes and ensuring reproducibility.
 
-## **8. Future Enhancements**
+## **8. Acknowledgments**
 
 - Special thanks to [Krish Naik](https://github.com/krishnaik06) for his coding tutorials and insights into MLOps best practices.
 
